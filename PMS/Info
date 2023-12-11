@@ -75,10 +75,19 @@ Add Graduation Details (Degree)
 
 Academic Project Information:
 		Select Qualification: PG Diploma
-		Project Title: Academic Aisle 
+		
 
-		Duration(Month):2 months
-		Project Description:
+	
+	
+project title=Kiddo shield
+duration =2
+project description=
+The Child Health and Vaccination Website is an online platform that allows parents 
+and healthcare providers to manage child health comprehensively. 
+It includes features like a Child Vaccination Tracker, disease and vaccine information,
+personalized diet plans, and virtual doctor consultations. The platform prioritizes security,
+compliance, usability, and performance, aiming to provide a centralized and user-friendly solution 
+for informed child healthcare management.
 
 
 Other Information: 
